@@ -1,6 +1,6 @@
-baseurl = "http://georginacox.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Georgina K. Cox"
-copyright = "&copy; 2017 Georgina K. Cox"
+baseurl = "http://roxannedubois.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "Roxanne Dubois"
+copyright = "&copy; 2018 Roxanne Dubois"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,24 +39,24 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Georgina K. Cox"
-  role = "Postdoctoral Fellow"
+  name = "Roxanne Dubois"
+  role = "Writer and Union Organizer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "School of Medicine, University of Pennsylvania", url = "" } ]
+  organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "georgina@georginacox.ca"
-  address = "School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+  email = "rdubois@cpress.org"
+  address = "Toronto, Ontario, Canada"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "1-786-397-5173"
+  phone = ""
   # skype = ""
   # telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = "georginakcox"
+  keybase = "rdubois"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -205,22 +205,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:georgina@georginacox.ca"
-
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
+    link = "mailto:rdubois@cpress.org"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=OGrwwEsAAAAJ&hl=en"
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/roxannedubois"
 
-  # [[params.social]]
-  #   icon = "github"
-  #   icon_pack = "fa"
-  #   link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/roxdubois"
 
 
 # Navigation Links

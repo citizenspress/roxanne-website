@@ -2,9 +2,9 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2017-10-15
+date = 2018-01-01
 
-title = "Postdoctoral Research"
+title = "Writing & Organizing"
 
 # Order that this section will appear in.
 weight = 3
@@ -20,9 +20,8 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/georgina-k-cox-cv/"
-  label = '<i class="fa fa-file-o"></i> Full CV ' 
+  url = "./post/cv/"
+  label = '<i class="fa fa-file-o"></i> Résumé ' 
 +++
-
-in comparative cardiovascular physiology. :fish:
+Writing projects. Community & Labour Organizing.
 <br>
