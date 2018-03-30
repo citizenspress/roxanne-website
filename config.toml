@@ -217,6 +217,16 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/roxdubois"
 
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "//instagram.com/roxdub"
+
+  [[params.social]]
+    icon = "book"
+    icon_pack = "fa"
+    link = "//goodreads.com/roxdub"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -238,7 +248,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Recent Publications"
-  url = "#publications"
+  url = "publication"
   weight = 5
   
 [[menu.main]]

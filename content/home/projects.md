@@ -29,12 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Oil"
-  tag = ".oil"
+  name = "Writing"
+  tag = ".writing"
 
 [[filter]]
-  name = "Cardiac Function"
-  tag = ".cardiac-function"
+  name = "Français"
+  tag = ".francais"
 
 +++
 
