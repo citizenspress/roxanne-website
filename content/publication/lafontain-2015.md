@@ -1,7 +1,10 @@
 +++
 title = "En passant par Lafontaine"
-date = "2015-02-01"
+date = "2018-02-01"
 draft = false
+tags = ["writing"]
+summary = "En passant par Lafontaine raconte l’histoire d’un déracinement, celui d’une jeune fille dont la famille déménage dans un nouveau village. En suivant le trajet de leur voiture de St Catharines à Lafontaine, en Ontario, elle retrouve le fil de ses souvenirs, éléments marquants de son identité personnelle. Cette nouvelle se trouve dans le recueil collectif « Écrire pour se raconter » publié aux Éditions David, en 2015."
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Roxanne Dubois"]
@@ -33,7 +36,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["writing"]
+projects = ["creatif"]
 
 # Links (optional).
 url_pdf = ""

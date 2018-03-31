@@ -9,7 +9,7 @@ title = "Théatre français"
 summary = "Roxanne is a long-time theatre goer and is currently experimenting with playwriting. She proudly serves as a member of the Board of Administration of the Théatre français. The Théatre français has been producing French plays in Toronto for 50 years."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "switch6.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
