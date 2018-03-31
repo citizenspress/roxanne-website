@@ -28,10 +28,10 @@ caption = ""
 
 +++
 
-I curate and write reviews for the Arts & Culture section of the Citizens' Press website. Original writing of book, movie, and art that inspire me. 
+I write reviews for the Arts & Culture section of the Citizens' Press website and contribute editorial and links to the main page. I am also a co-editor for CPress What's Left newsletter.
 
 The Citizens' Press is a network of non-sectarian socialist student, labour and community organizers based in Canada.
 
 
-- [Citizens' Press | Arts & Culture](https://cpress.org/arts-culture)
+- [Citizens' Press | Arts & Culture](https://cpress.org/rdubois)
 
