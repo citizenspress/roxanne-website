@@ -63,7 +63,7 @@ Roxanne is a proud Franco-Ontarian who was born in St. Catharines, Ontario and g
 
 Roxanne studied Communications and Globalization at the University of Ottawa. While at school, she worked as the Arts and Culture editor for La Rotonde, the francophone student newspaper. She produced and hosted radio shows on community and student radio stations.
 
-She was a student organizer and elected representative, both at the local level and the national level. She now works as a union organizer where she helps to resources, plan and implement organizing campaigns and special projects. She is interested in building organizing capacity within traditionally excluded workers. She is passionate about training and developing young workers so that they can play an active role in their workplaces and communities throughout their lives.
+She was a student organizer and elected representative, both at the local level and the national level. She now works as a union organizer where she helps to resource, plan, and implement organizing campaigns and special projects. She is interested in building organizing capacity within traditionally excluded workers. She is passionate about training and developing young workers so that they can play an active role in their workplaces and communities throughout their lives.
 
 Roxanne has always maintained an active writing practice throughout her life. She is also an avid reader, and a fan of creative projects from photography to knitting.
 
