@@ -2,7 +2,7 @@
 title = "En passant par Lafontaine"
 date = "2018-02-01"
 draft = false
-tags = ["writing"]
+tags = ["writing","francais"]
 summary = "En passant par Lafontaine raconte l’histoire d’un déracinement, celui d’une jeune fille dont la famille déménage dans un nouveau village. En suivant le trajet de leur voiture de St Catharines à Lafontaine, en Ontario, elle retrouve le fil de ses souvenirs, éléments marquants de son identité personnelle. Cette nouvelle se trouve dans le recueil collectif « Écrire pour se raconter » publié aux Éditions David, en 2015."
 
 
@@ -31,7 +31,7 @@ abstract = "En passant par Lafontaine raconte l’histoire d’un déracinement,
 image_preview = "pour-se-raconter-ii.jpg"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
