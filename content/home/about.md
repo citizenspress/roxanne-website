@@ -68,4 +68,4 @@ She was a student organizer and elected representative, both at the local level 
 Roxanne has always maintained an active writing practice throughout her life. She is also an avid reader, and a fan of creative projects from photography to knitting.
 
 
-[Read a detailed biography here](post/biography-cont)
+[Read full biography | Biographie en français](post/biography-cont)

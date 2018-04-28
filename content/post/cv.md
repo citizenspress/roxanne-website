@@ -17,14 +17,11 @@ Current position
 
 <img src="/img/portrait.jpg" align="right" width="30%">
 
-**National Representative, Organizing & Community Chapters**  
+### **National Representative, Organizing & Community Chapters**  
+**Unifor the Union**  
 2013 – present  
-Unifor the Union  
 Toronto, Ontario  
-Outreached to groups of workers interested in forming chapters.  
-Coordination and logistics of organizing drives.  
-Negotiated benefits plan for members.  
-Developed an individual membership dues process.
+Responsible for strategic planning, resourcing and coordinating organizing campaigns and special projects. Work with freelancers and temporary agency workers to build community unions. Develop and deliver training courses and conferences for young workers and union members. 
 
 
 

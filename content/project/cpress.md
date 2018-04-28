@@ -3,10 +3,10 @@
 date = "2018-01-01"
 draft = false
 # Project title.
-title = "Citizens' Press | Arts & Culture"
+title = "Citizens' Press Arts & Culture"
 
 # Project summary to display on homepage.
-summary = "Curating and writing for the Arts & Culture section of the Citizens' Press website. Book, movie, and art reviews."
+summary = "Curating and writing for the Arts & Culture section of the Citizens' Press website. Books reviews and noteworthy cultural and artistic content. *Critiques de livres en anglais et en français.*"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "cpress.png"
@@ -28,10 +28,13 @@ caption = ""
 
 +++
 
-I write reviews for the Arts & Culture section of the Citizens' Press website and contribute editorial and links to the main page. I am also a co-editor for CPress What's Left newsletter.
+I write French and English reviews for the Arts & Culture section of the Citizens' Press website and contribute editorial and links to the main page. I am also a co-editor for Citizens' Press What's Left newsletter.
 
 The Citizens' Press is a network of non-sectarian socialist student, labour and community organizers based in Canada.
 
+---
+
+J'écris des critiques de livre en anglais et en français pour la section Arts et Culture de *Citizens' Press*, et je publie des éditoriaux et des liens pour le site principal. Je co-rédige le bulletin de nouvelle *What's Left*.
 
 - [Citizens' Press | Arts & Culture](https://cpress.org/rdubois)
 

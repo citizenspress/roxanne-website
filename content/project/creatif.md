@@ -6,7 +6,7 @@ draft = false
 title = "Chantier créatif"
 
 # Project summary to display on homepage.
-summary = "Chantier créatif est un espace de création, un coup de pied pour me  donner l’encouragement nécessaire à faire vivre mes écrits au-delà de  leur écosystème informatique local. C’est une perche tendue aux autres  qui bâtissent des projets semblables, oqu’on puisse échanger et continuer  à créer. Les textes publiés comprennent plusieurs formats, soit le  microrécit, la nouvelle ou le théâtre, et sont rassemblés en trois  grands thèmes : lieux, temps et résistances."
+summary = "Chantier créatif est un espace pour faire vivre mes écrits au-delà de leur écosystème informatique local. Les textes publiés ont plusieurs formats, soit le microrécit, la nouvelle ou le théâtre, et sont rassemblés en trois grands thèmes : lieux, temps et résistances."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "creatif.png"
