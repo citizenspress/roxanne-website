@@ -6,10 +6,10 @@ draft = false
 title = "Toronto Places"
 
 # Project summary to display on homepage.
-summary = "I moved to Toronto in September, 2015. I bought a new bike, and explored the city by biking on side streets, at first, and eventually finding my way on the grid. Taking photos in Toronto Places that were iconic but new to me was a way to get to know my new home."
+summary = "When I first move to Toronto, exploring the city by bike and taking in some of the iconic sights was a way to get to know my new home."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "switch6.png"
+image_preview = "toplaces.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,8 +28,15 @@ caption = ""
 
 +++
 
-I moved to Toronto in September, 2015. I bought a new bike, and explored the city by biking on side streets, at first, and eventually finding my way on the grid. Taking photos in Toronto Places that were iconic but new to me was a way to get to know my new home.
+I moved to Toronto in September, 2015. I explored the city by biking on side streets, at first, and eventually finding my way on the grid. Taking photos in Toronto Places that were iconic but new to me was a way to get to know my new home.
 
-En francais.
+Photo galleries:
 
-- [Théatre français](http://theatrefrancais.com/)
+- Sunrise at Leslie Spit
+- Walking to Leslieville // winter
+- Toronto Reference Library
+- Allan Gardens
+- College Streetcar Going East
+
+- [View galleries: Toronto Places](http://rdubois.piwigo.com/index?/category/17-toronto)
+

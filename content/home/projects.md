@@ -36,5 +36,11 @@ filter_default = 0
   name = "Français"
   tag = ".francais"
 
+
+[[filter]]
+  name = "Photo"
+  tag = ".photo"
+
+
 +++
 
