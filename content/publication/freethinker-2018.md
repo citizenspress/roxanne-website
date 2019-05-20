@@ -18,7 +18,7 @@ authors = ["Roxanne Dubois"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = "The CCPA Monitor"
@@ -31,7 +31,7 @@ abstract = "Éva Circé Côté was a diehard Montrealer, writes Andrée Lévesqu
 image_preview = "freethinker.jpg"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

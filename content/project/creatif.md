@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-01-01"
+date = "2018-06-01"
 draft = false
 # Project title.
 title = "Chantier créatif"
@@ -9,7 +9,7 @@ title = "Chantier créatif"
 summary = "Un espace pour faire vivre mes écrits au-delà de leur écosystème informatique local. Les textes sont publiés en format microrécit, nouvelle ou théâtre, et sont rassemblés en trois thèmes."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "creatif.png"
+image_preview = "creatif-2.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,8 +28,7 @@ caption = ""
 
 +++
 
+*Chantier créatif* est un espace de création, un coup de pied pour me donner l’encouragement nécessaire à faire vivre mes écrits au-delà de leur écosystème informatique local. C’est une perche tendue aux autres qui bâtissent des projets semblables, qu’on puisse échanger et continuer à créer. Les textes publiés comprennent plusieurs formats, soit le microrécit, la nouvelle ou le théâtre, et sont rassemblés en trois grands thèmes : lieux, temps et résistances.
 
-*Chantier créatif* est un espace de création, un coup de pied pour me  donner l’encouragement nécessaire à faire vivre mes écrits au-delà de  leur écosystème informatique local. C’est une perche tendue aux autres  qui bâtissent des projets semblables, oqu’on puisse échanger et continuer  à créer. Les textes publiés comprennent plusieurs formats, soit le  microrécit, la nouvelle ou le théâtre, et sont rassemblés en trois  grands thèmes : lieux, temps et résistances.
-
-- [Chantier créatif](http://ecrits.chantiercreatif.ca)
+- [Chantier créatif](https://ecrits.chantiercreatif.ca/)
 

@@ -1,6 +1,6 @@
 +++
 title = "En passant par Lafontaine"
-date = "2018-02-01"
+date = "2015-02-01"
 draft = false
 tags = ["writing","francais"]
 summary = "En passant par Lafontaine raconte l’histoire d’un déracinement, celui d’une jeune fille dont la famille déménage dans un nouveau village. En suivant le trajet de leur voiture de St Catharines à Lafontaine, en Ontario, elle retrouve le fil de ses souvenirs, éléments marquants de son identité personnelle. Cette nouvelle se trouve dans le recueil collectif « Écrire pour se raconter » publié aux Éditions David, en 2015."
