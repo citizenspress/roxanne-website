@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "201-05-01"
+date = "2022-02-02"
 draft = false
 # Project title.
 title = "Vendredi français"

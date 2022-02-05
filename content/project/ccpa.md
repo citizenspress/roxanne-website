@@ -6,7 +6,7 @@ draft = false
 title = "Canadian Centre for Policy Alternatives"
 
 # Project summary to display on homepage.
-summary = "The Canadian Centre for Policy Alternatives (CCPA) is an independent, non-partisan research institute concerned with issues of social, economic and environmental justice."
+summary = "is an independent, non-partisan research institute concerned with issues of social, economic and environmental justice."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ccpa.jpg"
