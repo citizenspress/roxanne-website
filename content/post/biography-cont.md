@@ -23,7 +23,7 @@ After her elected term, Roxanne began working for the Communications, Energy and
 
 In Unifor, Roxanne was assigned to the community chapter project which aimed to develop a union structure for workers who cannot organize in traditional ways. As part of this assignment, she worked with freelancers, independent contractors, temporary agency workers and others who wanted to create a union voice for themselves and their community. As part of the Organizing Department at Unifor, Roxanne supports field organizers by planning, resourcing and implementing union organizing drives. She also develops the youth network and provides tools and training for young workers to organize.
 
-Roxanne has always maintained an active writing practice throughout her life. She is an avid reader, and a fan of creative projects from writing to graphic design, from photography to knitting, and more.
+Roxanne has always maintained an active writing practice throughout her life. She is an avid reader, and a fan of creative projects from graphic design and photography to creative writing, and more.
 
 
 ---

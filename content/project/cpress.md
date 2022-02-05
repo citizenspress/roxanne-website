@@ -6,7 +6,7 @@ draft = false
 title = "Citizens' Press Arts & Culture"
 
 # Project summary to display on homepage.
-summary = "Curating and writing for the Arts & Culture section of the Citizens' Press website. Books reviews and noteworthy cultural and artistic content. *Critiques de livres en anglais et en français.*"
+summary = "Curating and writing for the Arts & Culture section of the Citizens' Press website. Book reviews and noteworthy cultural and artistic content. *Critiques de livres en anglais et en français.*"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "cpress.png"

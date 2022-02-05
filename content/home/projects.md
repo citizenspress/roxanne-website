@@ -33,13 +33,17 @@ filter_default = 0
   tag = ".writing"
 
 [[filter]]
-  name = "Français"
+  name = "Francophonie"
   tag = ".francais"
-
+  
+[[filter]]
+  name = "Politics"
+  tag = ".politics"
 
 [[filter]]
-  name = "Photo"
+  name = "Photography"
   tag = ".photo"
+
 
 
 +++

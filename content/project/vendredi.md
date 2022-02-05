@@ -31,5 +31,6 @@ caption = ""
 
 *Vendredi français* est un bulletin envoyé par courriel à toutes les semaines. Dans chaque édition, j'assemble de courts récits, écrits ou encore contenu d'ailleurs. Le vendredi matin, vous pourrez vous attendre à une lecture courte et imagée.
 
+- [Lire les archives](https://vendredifrancais.ca/)
 - [Pour vous inscire à Vendredi français](https://publ.maillist-manage.com/ua/Optin?od=11287ecae593a2&zx=12709a68&lD=173faf7544e318d3&n=11699f7506b9f75&sD=173faf7544e318eb)
 

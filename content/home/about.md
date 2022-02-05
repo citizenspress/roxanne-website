@@ -10,48 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-	"Literature",
-    "Theatre",
-	"Social Movements",
-    "Creative Content"
+	"Reading and writing",
+    "Arts and politics",
+	"Social movements",
+    "Creative content",
+	"Unions and organizing",
+	"Worker power",
+	"Speaks French, English, Spanish",
+	"Strategic campaign, event and project planning",
+	"Web and tech"
   ]
 
-# List your qualifications (such as academic degrees).
-
-[[education.courses]]
-  course = "Speaks French, English, Spanish"
-  institution = ""
-  year = ""
-
-[[education.courses]]
-  course = "Trained support listener for survivors of domestic violence"
-  institution = ""
-  year = ""
-
-[[education.courses]]
-  course = "Strategic planning"
-  institution = ""
-  year = ""
-
-[[education.courses]]
-  course = "Project coordination"
-  institution = ""
-  year = ""
-
-[[education.courses]]
-  course = "Conference organizing"
-  institution = ""
-  year = ""
-  
-[[education.courses]]
-  course = "Presentations and training"
-  institution = ""
-  year = ""
-
-[[education.courses]]
-  course = "Web and Tech"
-  institution = ""
-  year = ""
 
  
 +++
@@ -65,7 +34,7 @@ Roxanne studied Communications and Globalization at the University of Ottawa. Wh
 
 She was a student organizer and elected representative, both at the local level and the national level. She now works as a union organizer where she helps to resource, plan, and implement organizing campaigns and special projects. She is interested in building organizing capacity within traditionally excluded workers. She is passionate about training and developing young workers so that they can play an active role in their workplaces and communities throughout their lives.
 
-Roxanne has always maintained an active writing practice throughout her life. She is also an avid reader, and a fan of creative projects from photography to knitting.
+Roxanne has always maintained an active writing practice throughout her life. She is also an avid reader, and a fan of creative projects from photography to creative writing.
 
 
 [Read full biography | Biographie en français](post/biography-cont)

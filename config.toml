@@ -1,6 +1,6 @@
 baseurl = "http://roxannedubois.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Roxanne Dubois"
-copyright = "&copy; 2018 Roxanne Dubois"
+copyright = "&copy; 2022 Roxanne Dubois"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -225,7 +225,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "book"
     icon_pack = "fa"
-    link = "//goodreads.com/roxdub"
+    link = "https://bookwyrm.social/user/roxdub"
 
 
 # Navigation Links

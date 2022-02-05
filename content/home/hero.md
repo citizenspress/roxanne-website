@@ -19,9 +19,9 @@ weight = 3
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
-[cta]
-  url = "./post/cv/"
-  label = '<i class="fa fa-file-o"></i> Résumé ' 
+# [cta]
+#  url = "./post/cv/"
+#  label = '<i class="fa fa-file-o"></i> Résumé ' 
 +++
 Writing projects. Community & Labour Organizing.
 <br>

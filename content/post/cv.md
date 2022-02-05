@@ -8,7 +8,6 @@ summary = """Union Campaign Coordinator & Organizer"""
 
 +++
 
-[*Download PDF of CV here.*](/files/CV_Roxanne_Dubois.pdf)
 
 Current position 
 =================
@@ -17,9 +16,9 @@ Current position
 
 <img src="/img/portrait.jpg" align="right" width="30%">
 
-### **National Representative, Organizing & Community Chapters**  
+### **Director of Strategic Planning and Development**  
 **Unifor the Union**  
-2013 – present  
+2019 – present  
 Toronto, Ontario  
 Responsible for strategic planning, resourcing and coordinating organizing campaigns and special projects. Work with freelancers and temporary agency workers to build community unions. Develop and deliver training courses and conferences for young workers and union members. 
 
@@ -47,6 +46,12 @@ Responsible for strategic planning, resourcing and coordinating organizing campa
 
 Previous positions 
 ===================
+
+### **National Representative, Organizing & Community Chapters**  
+**Unifor the Union**  
+2013 – 2019 
+Toronto, Ontario  
+Responsible for strategic planning, resourcing and coordinating organizing campaigns and special projects. Work with freelancers and temporary agency workers to build community unions. Develop and deliver training courses and conferences for young workers and union members. 
 
 
 ### **National Chairperson (2011) Treasurer (2010)**
@@ -129,6 +134,10 @@ Inhispania Language School, Madrid, Spain
 
 # Community Roles
 
+### Canadian Centre for Policy Alternatives
+2021-Now  
+Board of Directors
+
 ###  Théâtre français de Toronto
 2015-Now  
 Board of Directors -- Community Development  
@@ -169,7 +178,7 @@ Contributed as publication as journalist, photographer and graphic designer.
 - InDesign
 - Photoshop
 - LaTeX
-- numerous video editing software
+- Video editing
 
 ### Web, Databases & Data
 - Base
