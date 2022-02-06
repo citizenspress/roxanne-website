@@ -1,6 +1,6 @@
 +++
 date = 2018-01-06
-draft = false
+draft = true
 tags = ["Writing"]
 title = "Un espace créatif"
 math = false

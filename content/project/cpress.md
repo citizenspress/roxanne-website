@@ -3,7 +3,7 @@
 date = "2018-01-01"
 draft = false
 # Project title.
-title = "Citizens' Press Arts & Culture"
+title = "Citizens' Press"
 
 # Project summary to display on homepage.
 summary = "Curating and writing for the Arts & Culture section of the Citizens' Press website. Book reviews and noteworthy cultural and artistic content. *Critiques de livres en anglais et en français.*"
