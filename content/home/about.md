@@ -10,15 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-	"Reading and writing",
-    "Arts and politics",
-	"Social movements",
-    "Creative content",
-	"Unions and organizing",
-	"Worker power",
-	"Speaks French, English, Spanish",
-	"Strategic campaign, event and project planning",
-	"Web and tech"
+	"Strategic campaign and project development",
+	"Unions, worker power and democracy",
+	"Creative campaigns and protest",
+	"Art, theatre, and poetry",
+	"Classic and contemporary literature",
+	"Photography"
   ]
 
 
@@ -28,13 +25,9 @@ weight = 5
 # Biography
 
 
-Roxanne is a proud Franco-Ontarian who was born in St. Catharines, Ontario and grew up in Lafontaine, near the town of Penetanguishene.
+I am a bilingual union organizer, avid reader and writer based in Toronto, Ontario. I am a proud Franco-Ontarian who was born in St. Catharines and grew up in Lafontaine on the shores of Georgian Bay.
 
-Roxanne studied Communications and Globalization at the University of Ottawa. While at school, she worked as the Arts and Culture editor for La Rotonde, the francophone student newspaper. She produced and hosted radio shows on community and student radio stations.
+I have more than 15 years of experience in strategic campaign and project development, including policical, awareness, and organizing campaigns at all stages. I have served as national chairperson of Canada's largest democratic student union and am currently the Director of Strategic Planning for Unifor.
 
-She was a student organizer and elected representative, both at the local level and the national level. She now works as a union organizer where she helps to resource, plan, and implement organizing campaigns and special projects. She is interested in building organizing capacity within traditionally excluded workers. She is passionate about training and developing young workers so that they can play an active role in their workplaces and communities throughout their lives.
+I am passionate about building worker power and democracy, fighting for improved labour standards and strengthening unions and social movements. 
 
-Roxanne has always maintained an active writing practice throughout her life. She is also an avid reader, and a fan of creative projects from photography to creative writing.
-
-
-[Read full biography | Biographie en français](post/biography-cont)
