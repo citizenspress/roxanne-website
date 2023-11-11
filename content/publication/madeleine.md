@@ -31,7 +31,7 @@ abstract = "Été 1946 : 3 000 employés de l'industrie textile au Québec mène
 image_preview = "madeleine.jpg"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
