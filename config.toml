@@ -208,7 +208,7 @@ defaultContentLanguageInSubdir = false
     link = "mailto:rdubois@cpress.org"
 
   [[params.social]]
-    icon = "m"
+    icon = "envelope"
     icon_pack = "fa"
     link = "//social.cpress.org/@roxdub"
 
