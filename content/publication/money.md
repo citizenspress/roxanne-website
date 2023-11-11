@@ -31,7 +31,7 @@ abstract = "Ten years after the crash, is any aspect of our daily lives unfetter
 image_preview = "money.jpg"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
