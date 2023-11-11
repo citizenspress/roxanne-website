@@ -1,6 +1,6 @@
 baseurl = "https://roxannedubois.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Roxanne Dubois"
-copyright = "&copy; 2022 Roxanne Dubois"
+copyright = "&copy; 2023 Roxanne Dubois"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -91,7 +91,7 @@ defaultContentLanguageInSubdir = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04 PM"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -138,7 +138,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -208,9 +208,9 @@ defaultContentLanguageInSubdir = false
     link = "mailto:rdubois@cpress.org"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "mastodon"
     icon_pack = "fa"
-    link = "//twitter.com/roxannedubois"
+    link = "//social.cpress.org/@roxdub"
 
   [[params.social]]
     icon = "github"
@@ -218,9 +218,9 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/roxdubois"
 
   [[params.social]]
-    icon = "instagram"
+    icon = "image"
     icon_pack = "fa"
-    link = "//instagram.com/roxdub"
+    link = "//pixelfed.social/roxdub"
 
   [[params.social]]
     icon = "book"
