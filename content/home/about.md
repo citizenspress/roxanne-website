@@ -24,10 +24,4 @@ weight = 5
 
 # Biography
 
-
-I am a bilingual union organizer, avid reader and writer based in Toronto, Ontario. I am a proud Franco-Ontarian who was born in St. Catharines and grew up in Lafontaine on the shores of Georgian Bay.
-
-I have more than 15 years of experience in strategic campaign and project development, including policical, awareness, and organizing campaigns at all stages. I have served as national chairperson of Canada's largest democratic student union and am currently the Director of Strategic Planning for Unifor.
-
-I am passionate about building worker power and democracy, fighting for improved labour standards and strengthening unions and social movements. 
-
+Roxanne Dubois is the Executive Assistant to Unifor's National President Lana Payne. In this role, she acts as the lead staffperson responsible for coordinating the political work and campaigns out of the president's office of the national union. Previously, she worked as the union's Director of Strategic Planning and was assigned to the organizing department where she supported and planned strategic campaigns and special projects. She is a francophone community and labour organizer with roots in the student and social movements of Canada. Based in Toronto, she is an occasional writer and an avid reader. 
