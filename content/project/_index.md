@@ -1,6 +1,6 @@
 +++
-title = "Projects"
-date = "2017-01-01T00:00:00Z"
+title = "Current Projects"
+date = "2017-01-01"
 math = false
 highlight = false
 
@@ -11,8 +11,5 @@ highlight = false
 #   3 = MLA
 list_format = 3
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = ""
 +++
+
