@@ -236,25 +236,25 @@ defaultContentLanguageInSubdir = false
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
+# [[menu.main]]
+#  name = "Home"
+#  url = "#posts"
+#  weight = 1
+
 [[menu.main]]
-  name = "Home"
+  name = "about"
+  url = "#about"
+  weight = 3
+
+[[menu.main]]
+  name = "posts"
   url = "#posts"
   weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "#about"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Publications"
+  name = "publications"
   url = "publication"
-  weight = 4
+  weight = 2
   
 
 # [[menu.main]]
@@ -263,9 +263,9 @@ defaultContentLanguageInSubdir = false
 #   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "contact"
   url = "#contact"
-  weight = 5
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
