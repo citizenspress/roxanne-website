@@ -1,7 +1,7 @@
 +++
 date = 2022-10-15
 draft = false
-tags = ["famille"]
+tags = ["famille","francais"]
 title = "Discours pour grand-maman"
 math = false
 summary = """Discours prononcé lors des funérailles de grand-maman Dubois au mois d'octobre, 2022."""
