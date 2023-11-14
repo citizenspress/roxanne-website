@@ -1,7 +1,7 @@
 +++
 date = 2023-11-14
 draft = false
-tags = ["writing"]
+tags = ["writing","internet"]
 title = "I'm saying goodbye to corporate social media (I'm already gone)"
 math = false
 summary = """insert summary"""
