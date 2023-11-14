@@ -13,7 +13,7 @@ weight = 5
 	"Strategic campaign and project development",
 	"Unions, worker power and democracy",
 	"Creative campaigns and protest",
-	"Art, theatre, and poetry",
+	"Art, creative writing, theatre, and poetry",
 	"Classic and contemporary literature",
 	"Photography"
   ]
