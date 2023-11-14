@@ -6,7 +6,7 @@ draft = false
 title = "Vendredi français"
 
 # Project summary to display on homepage.
-summary = "Un bulletin envoyé par courriel toutes les semaines qui comprend des bouchées de culture en français, dont du contenu original et du contenu d'ailleurs."
+summary = "Un bulletin hebdomadaire qui comprend des bouchées de culture en français, dont du contenu original et du contenu d'ailleurs. Publié entre Février 2019 et Juin 2021."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "vf.png"
@@ -29,8 +29,7 @@ caption = ""
 +++
 
 
-*Vendredi français* est un bulletin envoyé par courriel à toutes les semaines. Dans chaque édition, j'assemble de courts récits, écrits ou encore contenu d'ailleurs. Le vendredi matin, vous pourrez vous attendre à une lecture courte et imagée.
+*Vendredi français* est un bulletin hebdomadaire envoyé par courriel entre Février 2019 et Juin 2021. En consultant l'archive des publications, vous pourrez vous attendre à une lecture courte, temporelle et imagée.
 
 - [Lire les archives](https://vendredifrancais.ca/)
-- [Pour vous inscire à Vendredi français](https://publ.maillist-manage.com/ua/Optin?od=11287ecae593a2&zx=12709a68&lD=173faf7544e318d3&n=11699f7506b9f75&sD=173faf7544e318eb)
 
