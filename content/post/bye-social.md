@@ -4,7 +4,7 @@ draft = false
 tags = ["writing","internet"]
 title = "I'm saying goodbye to corporate social media (I'm already gone)"
 math = false
-summary = """insert summary"""
+summary = """Be advised that you will no longer find me on the corporate social media networks I used to frequent, namely Facebook, Instagram and X (formerly known as whatever)."""
 +++
 
 ![Photo by Guillaume TECHER on Unsplash](/img/sortie.jpg "Photo by Guillaume TECHER on Unsplash")
