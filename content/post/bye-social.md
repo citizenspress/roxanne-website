@@ -24,6 +24,7 @@ Reconnecting to long lost friends and keeping up with everyone's activities. Bui
 Those times are long gone, and in fact are so distant at this point that I can barely remember, from day to day, why I keep trying to get those good times back.
 
 Without going too far into the reasons many people are choosing to leave corporate social media, here are mine:
+
 - I am tired of wasting time and getting angry on social media.
 - I want to make space for content creation and creative/original writing.
 - I don't want to settle for these networks when there truly are so many other ways for us to interact online.
