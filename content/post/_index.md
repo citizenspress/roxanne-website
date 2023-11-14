@@ -9,4 +9,6 @@ highlight = false
 # image = "headers/bubbles-wide.jpg"
 # caption = ""
 
+list_format = 0
+
 +++
