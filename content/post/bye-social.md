@@ -32,8 +32,8 @@ Without going too far into the reasons many people are choosing to leave corpora
 
 # I am still here
 - This [**web space**](https://roxannedubois.ca/) is my digital business card, a central page on the internet for information I put out into the world. I post when I can, and keep track of ideas and topics.
-- Since I love to exchange about books, I document my readings and engage with the small but lovely community over at [**BookWyrm**](https://bookwyrm.social/user/roxdub). Check it out.
-- I regularly post photos of where I am or what I am doing over at [**PixelFed**](https://pixelfed.social/roxdub).
+- I document my readings and engage with the small but lovely community over at [**BookWyrm**](https://bookwyrm.social/user/roxdub). Check it out.
+- I post photos of where I am or what I am doing over at [**PixelFed**](https://pixelfed.social/roxdub).
 - I read about and comment on current events and news on [**Mastodon**](https://social.cpress.org/@roxdub).
 
 
