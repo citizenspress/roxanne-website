@@ -1,7 +1,7 @@
 +++
 date = 2020-07-09
 draft = false
-tags = ["politics","unions","democracy"]
+tags = ["politics","union","democracy"]
 title = "What is a union and what is it not?"
 math = false
 summary = """The Alberta majority government has moved a series of bills that, when looked at together, drastically undermine unions in the province. Bill 1, passed in May, makes it illegal to protest 'essential infrastructure'. Bill 32 makes multiple changes to labour law, restricts picketing activities, creates an onerous system where members must opt-in for dues used for 'political activity', and more. Finally, Bill 26 changes the Constitutional Referendum Amendment Act allowing big money to pour into Alberta politics."""
